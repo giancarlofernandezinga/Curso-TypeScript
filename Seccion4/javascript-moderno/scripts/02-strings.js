@@ -43,3 +43,4 @@ document.addEventListener(
 
 // otra manera es agregar defer\
 //<script src="scripts/02-strings.js defer"></script>
+//---
